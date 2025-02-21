@@ -1,4 +1,4 @@
-1 of 8 repositories focused on quantum field theory.
+1 of 8 repositories focused on quantum field theory (https://en.wikipedia.org/wiki/Quantum_field_theory).
   1. Quantum Field Theory
   2. PathIntegrals
   3. Stochastic Quantization
